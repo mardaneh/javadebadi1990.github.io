@@ -1,4 +1,11 @@
-# My Skills
+# CV, certificates and skills
+
+### Certificates
+#### Machine Learning Certificates
+- **Machine Learning**, by Andrew Ng. Stanford University, [Coursera](https://javadebadi1990.github.io/CV/certificates/Machine-Learning-Coursera DJ4VL4Y4H2MD.pdf).
+
+
+### Skills
 
 
 <table border="0">
