@@ -7,7 +7,7 @@
 - **The Unix Workbench**. Johns Hopkins University, [Coursera](https://javadebadi1990.github.io/CV/certificates/The-Unix-Workbench.pdf)
 
 #### Machine Learning Certificates
-- **Machine Learning**, by Andrew Ng. Stanford University, [Coursera](https://javadebadi1990.github.io/CV/certificates/Machine-Learning-Coursera-DJ4VL4Y4H2MD.pdf).
+- **Machine Learning**, by Andrew Ng. Stanford University, [Coursera](https://javadebadi1990.github.io/CV/certificates/Machine-Learning-Coursera DJ4VL4Y4H2MD.pdf).
 
 - **Neural Networks and Deep Learning**, by Andrew Ng. deeplearning.ai, [Coursera](https://javadebadi1990.github.io/CV/certificates/Deep-Learning-1-GU3E7YMC3GG6.pdf).
 
