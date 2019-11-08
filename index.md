@@ -47,3 +47,5 @@ Particle physics phenomenology ([HEP-PH](hep-ph-publications.md))
 <a href="https://www.goodreads.com/user/show/77636561-javad-ebadi"><img src="./images/goodreads_logo.png" height="50"></a>
 <a href="https://www.slideshare.net/JavadEbadi/"><img src="./images/slideshare_logo.png" height="50"></a>
 <a href="https://anaconda.org/javadebadi"><img src="./images/anaconda.png" height="50"></a>
+<a href="https://github.com/javadebadi"><img src="./images/github.png" height="50"></a>
+<a href="https://anaconda.org/javadebadi1990"><img src="./images/github.png" height="50"></a>
