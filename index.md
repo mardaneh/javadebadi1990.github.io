@@ -30,6 +30,9 @@ Particle physics phenomenology ([HEP-PH](hep-ph-publications.md))
 | CERN  | javad.ebadi@cern.ch        |
 | Gmail | javad.ebadi.1990@gmail.com |
 
+<!-- <img src="./images/gmail_logo.png" height="50" align="middle" hspace="70" title="javad.ebadi.1990@gmail.com"><br> -->
+
+
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
 <a href="https://instagram.com/javad.ebadi.1990"><img src="./images/instagram.png" height="50"></a>
 <a href="https://t.me/javadebadi1990"><img src="./images/telegram_logo.png" height="50"></a>
@@ -46,4 +49,4 @@ Particle physics phenomenology ([HEP-PH](hep-ph-publications.md))
 <a href="https://anaconda.org/javadebadi"><img src="./images/anaconda.png" height="50"></a>
 <a href="https://github.com/javadebadi"><img src="./images/github.png" height="50"></a>
 <a href="https://github.com/javadebadi1990"><img src="./images/github.png" height="50"></a>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="javad-ebadi-3629a481"><a class="LI-simple-link" href='https://ir.linkedin.com/in/javad-ebadi-3629a481?trk=profile-badge'>Javad Ebadi</a></div>
+
