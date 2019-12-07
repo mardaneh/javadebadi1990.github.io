@@ -14,6 +14,8 @@
 #### Data Science Certificates
 - **What is Data Science**, by IBM. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/What-is-data-science.pdf).
 
+- **Open Source tools for Data Science**, by Polong Lin. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-open-source-tools-for-data-science.pdf).
+
 - **Python for Data Science and AI**, by Joseph Santarcangelo. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-Python-for-Data-Science-and-AI.pdf).
 
 
