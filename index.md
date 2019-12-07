@@ -49,3 +49,5 @@ Particle physics phenomenology ([HEP-PH](hep-ph-publications.md))
 <a href="https://anaconda.org/javadebadi"><img src="./images/anaconda.png" height="50"></a>
 <a href="https://github.com/javadebadi"><img src="./images/github.png" height="50"></a>
 <a href="https://github.com/javadebadi1990"><img src="./images/github.png" height="50"></a>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
