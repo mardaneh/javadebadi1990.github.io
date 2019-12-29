@@ -26,21 +26,25 @@
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7031c03e-84a9-4578-bed5-4251a9474f76"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80b64207-4838-47cf-80f2-f662a9827a22"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-### Skills
+### Skills   
+
 #### Programming
 - Functional programming
 - Object oriented programming
 - C++
 - Python
 - Bash
-- Mathematica
+- Mathematica    
+
 #### Data Analysis
 - C++: root-cern
 - Python: numpy, pandas, scipy
-- Spreadsheet: Excel, Google Sheets
+- Spreadsheet: Excel, Google Sheets    
+
 ### Data Visulization
 - Python: matplotlib, seaborn
-- Mathematica
+- Mathematica    
+
 #### Machine Learning
 - Python: scikit-learn, keras, tensorflow
 
