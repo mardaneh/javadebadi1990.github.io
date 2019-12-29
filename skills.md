@@ -18,12 +18,32 @@
 
 - **Python for Data Science and AI**, by Joseph Santarcangelo. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-Python-for-Data-Science-and-AI.pdf).
 
+- **Data Analysis with Python**, by Joseph Santarcangelo. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-Data-Analysis-with-Python.pdf).
+
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee7d3898-6f1c-4fdf-8dbf-83fc2c10cdcd"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4afa9e46-3777-43c7-b0c6-39e8c755bdc1"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7031c03e-84a9-4578-bed5-4251a9474f76"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80b64207-4838-47cf-80f2-f662a9827a22"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 ### Skills
+#### Programming
+- Functional programming
+- Object oriented programming
+- C++
+- Python
+- Bash
+- Mathematica
+#### Data Analysis
+- C++: root-cern
+- Python: numpy, pandas, scipy
+- Spreadsheet: Excel, Google Sheets
+### Data Visulization
+- Python: matplotlib, seaborn
+- Mathematica
+#### Machine Learning
+- Python: scikit-learn, keras, tensorflow
+
 
 <!--
 <table border="0">
