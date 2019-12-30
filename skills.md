@@ -16,6 +16,8 @@
 
 - **Open Source tools for Data Science**, by Polong Lin. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-open-source-tools-for-data-science.pdf).
 
+- **Data Science Methodology**, by Alex Aklson & Polong Lin. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-data-science-methodology.pdf).
+
 - **Python for Data Science and AI**, by Joseph Santarcangelo. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-Python-for-Data-Science-and-AI.pdf).
 
 - **Data Analysis with Python**, by Joseph Santarcangelo. IBM, [Coursera](https://javadebadi1990.github.io/CV/certificates/IBM-Data-Analysis-with-Python.pdf).
@@ -25,6 +27,7 @@
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4afa9e46-3777-43c7-b0c6-39e8c755bdc1"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7031c03e-84a9-4578-bed5-4251a9474f76"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80b64207-4838-47cf-80f2-f662a9827a22"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="724df1a0-4c36-4c25-99cd-9303d69a524c"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 ### Skills   
 
